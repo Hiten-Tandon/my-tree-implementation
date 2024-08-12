@@ -1,3 +1,0 @@
-/home/hitentandon/projects/c++/tree/CMakeFiles/tree.dir
-/home/hitentandon/projects/c++/tree/CMakeFiles/edit_cache.dir
-/home/hitentandon/projects/c++/tree/CMakeFiles/rebuild_cache.dir

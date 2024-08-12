@@ -1,1 +1,0 @@
-/run/current-system/sw/bin/c++ CMakeFiles/tree.dir/src/tree.cpp.o -o out/tree
