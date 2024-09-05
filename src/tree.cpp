@@ -95,17 +95,3 @@ int main(int argc, char *argv[]) {
     ft->print(temp);
   }
 }
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
